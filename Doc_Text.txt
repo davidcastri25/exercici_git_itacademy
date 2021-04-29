@@ -1,1 +1,2 @@
 - Una vegada creat l'arxiu, he escrit aquesta línia.
+- Escric aquesta nova línia des de la branca original, la màster.
